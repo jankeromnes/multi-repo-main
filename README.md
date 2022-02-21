@@ -2,7 +2,7 @@
 
 ## Main repo
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/jankeromnes/multi-repo-main)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/jankeromnes/multi-repo-main)
 
 ### How it works
 
