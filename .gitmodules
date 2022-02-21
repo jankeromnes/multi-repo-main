@@ -1,0 +1,6 @@
+[submodule "multi-repo-sub1"]
+	path = multi-repo-sub1
+	url = https://github.com/jankeromnes/multi-repo-sub1
+[submodule "multi-repo-sub2"]
+	path = multi-repo-sub2
+	url = https://github.com/jankeromnes/multi-repo-sub2
